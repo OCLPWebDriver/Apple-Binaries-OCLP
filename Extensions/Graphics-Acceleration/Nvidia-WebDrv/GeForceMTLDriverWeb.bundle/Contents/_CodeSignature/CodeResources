@@ -4,51 +4,18 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/GeForceStatistics-analysis.js</key>
-		<data>
-		IxJG8tGOy0M72lDrxTNIc+73J+U=
-		</data>
-		<key>Resources/GeForceStatistics-counters.plist</key>
-		<data>
-		sNH3SdH9LC+FXsuYPzSO8CMkmN0=
-		</data>
-		<key>Resources/GeForceStatistics-derived.js</key>
-		<data>
-		tDuA1wgXIqTyNS411DSiIRsIcek=
-		</data>
 		<key>Resources/internal.metallib</key>
 		<data>
-		zRnZ8Jhs8FgjRchEL+CeDpRtLO8=
+		/CacSUGGKK0TsQFU2/vo/rMP/30=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/GeForceStatistics-analysis.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MfcbndRPquox8WE4X/P9MS7VN7d/nhcVkwI1nhtYlqo=
-			</data>
-		</dict>
-		<key>Resources/GeForceStatistics-counters.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BMipQBMGFp3O2y94XdERx7M/H125sDFeENaaqcUd4NI=
-			</data>
-		</dict>
-		<key>Resources/GeForceStatistics-derived.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gB5UCbfOT6Pbtbb0IQw4CFRA1lF5eQRP+az5S9ZJsR4=
-			</data>
-		</dict>
 		<key>Resources/internal.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ApJSQxIDXaTUyv+/uyFvIgVauQD9YDTZnQpFz6MFIbQ=
+			RMul7XNyYCx/GuY7T/iVWrJHM4UuJUpv3QBgOhefw3g=
 			</data>
 		</dict>
 	</dict>

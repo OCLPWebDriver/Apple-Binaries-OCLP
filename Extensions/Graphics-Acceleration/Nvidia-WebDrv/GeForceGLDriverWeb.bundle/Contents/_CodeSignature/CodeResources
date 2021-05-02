@@ -4,33 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/cl_kernelWeb.nvptx64.fmath.pch</key>
+		<key>Resources/cl_kernelWeb.ptx30.fmath.pch</key>
 		<data>
-		ysJGD+kFF+IhxplKMhDrqOuKblc=
+		UU2UqXXWqxjRO2kkpVI8sV7PMhQ=
 		</data>
-		<key>Resources/cl_kernelWeb.nvptx64.pch</key>
+		<key>Resources/cl_kernelWeb.ptx30.pch</key>
 		<data>
-		7DFsnvXoP61DXNXs48mWliz90BM=
+		Bd+dGEZWxIjFjRs+MmfpchWfmyk=
 		</data>
 		<key>Resources/runtimeWeb.nvptx.sm2x.bc</key>
 		<data>
-		q/IqLZtEqfOs84b4uOiVC80eTKg=
+		nB/4TCoVGIoGmeDVDQXYWBeeGFo=
 		</data>
 		<key>Resources/runtimeWeb.nvptx.sm3x.bc</key>
 		<data>
-		2wjGV/bUrIm7vLy8bpJ/0YrzjQQ=
+		1eEzRBcnkoxLDoPBe33Ny7NUNBs=
 		</data>
 		<key>Resources/runtimeWeb.nvptx.sm5x.bc</key>
 		<data>
-		2wjGV/bUrIm7vLy8bpJ/0YrzjQQ=
+		1eEzRBcnkoxLDoPBe33Ny7NUNBs=
 		</data>
 		<key>Resources/runtimeWeb.nvptx.sm6x.bc</key>
 		<data>
-		2wjGV/bUrIm7vLy8bpJ/0YrzjQQ=
+		1eEzRBcnkoxLDoPBe33Ny7NUNBs=
 		</data>
-		<key>Resources/runtimeWeb.nvptx.sm7x.bc</key>
+		<key>Resources/runtimeWeb.ptx.bc</key>
 		<data>
-		2wjGV/bUrIm7vLy8bpJ/0YrzjQQ=
+		sPktVwKeDSz+Njw7IpLESvlSR+s=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -39,76 +39,94 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			gqw8/DKdBmPO+2aMuXYj0vtyjjk=
+			nvkQ3IpLoWFCJckvTB3DnC7h/Js=
 			</data>
 			<key>requirement</key>
 			<string>identifier NVPTXWeb and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "6KR3T733EC"</string>
+		</dict>
+		<key>MacOS/PTXWeb.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			P/Rr89Pyt9RF8wIfN+3dOeKw8C0=
+			</data>
+			<key>requirement</key>
+			<string>identifier PTXWeb and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "6KR3T733EC"</string>
 		</dict>
 		<key>MacOS/libCLVMNVPTXPluginWeb.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RoUI78+PK36ZUKtGEpHMl1WflrQ=
+			vxgQnd5zspFA7ZKHbVVYCIlnLfA=
 			</data>
 			<key>requirement</key>
 			<string>identifier libCLVMNVPTXPluginWeb and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "6KR3T733EC"</string>
+		</dict>
+		<key>MacOS/libCLVMPTXPluginWeb.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			GpFTW4bgT/MMZ09VsfGpuQWdXIs=
+			</data>
+			<key>requirement</key>
+			<string>identifier libCLVMPTXPluginWeb and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "6KR3T733EC"</string>
 		</dict>
 		<key>MacOS/libclhWeb.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			3Xe0yPw5BfhVOsrv9ahFLxptw18=
+			P3fOLazyzEDHHqP6Pb7Q/zwLISc=
 			</data>
 			<key>requirement</key>
 			<string>identifier libclhWeb and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "6KR3T733EC"</string>
 		</dict>
-		<key>Resources/cl_kernelWeb.nvptx64.fmath.pch</key>
+		<key>Resources/cl_kernelWeb.ptx30.fmath.pch</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dL747q6BcEzIO4GVgkujvyHEigjcy9o/VpWihixJhDI=
+			wCuqYHwexIwjVp2/mnZdOjv6CDodti8IxbIg8BR90O8=
 			</data>
 		</dict>
-		<key>Resources/cl_kernelWeb.nvptx64.pch</key>
+		<key>Resources/cl_kernelWeb.ptx30.pch</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/h5kE77CiVY7iBIvx6BvLhOCMMcEucLAH06sigsMx64=
+			gDbw4pw2TrN4/9HTEwtyDw2Y5sU6qLJglT+t1UFBLY8=
 			</data>
 		</dict>
 		<key>Resources/runtimeWeb.nvptx.sm2x.bc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OQvEAWtEo4fz5vklb5yP1iMoTa6k0Uf4VnAH/FWi+5U=
+			J5XPrXJj0KPkoJIXV6A8fJ6bbSwcU8jHn3qNVqmDE7o=
 			</data>
 		</dict>
 		<key>Resources/runtimeWeb.nvptx.sm3x.bc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SsFp4rT4bxQ5tEIuF8L+fa2o75u3rBV6JnxAEunFDXg=
+			axmy82QkcgeIoHCZc/VbEllPSrprMKnraTA0D35T/qM=
 			</data>
 		</dict>
 		<key>Resources/runtimeWeb.nvptx.sm5x.bc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SsFp4rT4bxQ5tEIuF8L+fa2o75u3rBV6JnxAEunFDXg=
+			axmy82QkcgeIoHCZc/VbEllPSrprMKnraTA0D35T/qM=
 			</data>
 		</dict>
 		<key>Resources/runtimeWeb.nvptx.sm6x.bc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SsFp4rT4bxQ5tEIuF8L+fa2o75u3rBV6JnxAEunFDXg=
+			axmy82QkcgeIoHCZc/VbEllPSrprMKnraTA0D35T/qM=
 			</data>
 		</dict>
-		<key>Resources/runtimeWeb.nvptx.sm7x.bc</key>
+		<key>Resources/runtimeWeb.ptx.bc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SsFp4rT4bxQ5tEIuF8L+fa2o75u3rBV6JnxAEunFDXg=
+			8l3WKnoXlnltRu8T1tO9eBPmdn30LxKhaDjZSX+KfWY=
 			</data>
 		</dict>
 	</dict>
