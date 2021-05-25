@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>GeForceWeb</string>
 	<key>CFBundleGetInfoString</key>
-	<string>GeForceWeb 10.18.5 378.05.05.25f19</string>
+	<string>GeForceWeb 10.33.0 387.10.10.10.40.140</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.nvidia.web.GeForceWeb</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -17,12 +17,12 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.18.5</string>
+	<string>10.33.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>10.1.8</string>
-	<key>CompanionBundles</key>
+	<string>10.3.3</string>
+	<key>GPUCompanionBundles</key>
 	<array>
 		<string>GeForceAIRPluginWeb.bundle</string>
 		<string>GeForceGLDriverWeb.bundle</string>
@@ -105,10 +105,12 @@
 			<string>NVMTLDevice</string>
 			<key>MetalPluginName</key>
 			<string>GeForceMTLDriverWeb</string>
+			<key>MetalStatisticsName</key>
+			<string>GeForceStatistics</string>
 		</dict>
 	</dict>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2000-2015 Apple Inc. All rights reserved.</string>
+	<string>Copyright © 2000-2017 Apple Inc. All rights reserved.</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>com.apple.iokit.IOAcceleratorFamily2</key>

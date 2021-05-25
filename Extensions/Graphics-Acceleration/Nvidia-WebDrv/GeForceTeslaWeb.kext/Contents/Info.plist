@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>GeForceTeslaWeb</string>
 	<key>CFBundleGetInfoString</key>
-	<string>GeForceTeslaWeb 10.18.5 378.05.05.25f19</string>
+	<string>GeForceTeslaWeb 10.33.0 387.10.10.10.40.140</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.nvidia.web.GeForceTeslaWeb</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -17,14 +17,14 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.18.5</string>
+	<string>10.33.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>10.1.8</string>
-	<key>CompanionBundles</key>
+	<string>10.3.3</string>
+	<key>GPUCompanionBundles</key>
 	<array>
-		<string>GeForceTeslaGAWeb.plugin</string>
+		<string>GeForceTeslaGAWeb.bundle</string>
 		<string>GeForceTeslaGLDriverWeb.bundle</string>
 		<string>GeForceTeslaVADriverWeb.bundle</string>
 	</array>
@@ -37,7 +37,7 @@
 			<key>IOCFPlugInTypes</key>
 			<dict>
 				<key>ACCF0000-0000-0000-0000-000a2789904e</key>
-				<string>GeForceTeslaGAWeb.plugin</string>
+				<string>GeForceTeslaGAWeb.bundle</string>
 			</dict>
 			<key>IOClass</key>
 			<string>NVKernel</string>
