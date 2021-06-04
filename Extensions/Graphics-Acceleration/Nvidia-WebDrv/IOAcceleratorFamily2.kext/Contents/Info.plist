@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>17A405001</string>
+	<string>16B2657</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>IOSurface</string>
+	<string>IOAcceleratorFamily2</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.iokit.IOSurface</string>
+	<string>com.apple.iokit.IOAcceleratorFamily2</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>IOSurface</string>
+	<string>IOAcceleratorFamily2</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>255.6.1</string>
+	<string>378.26</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,47 +25,35 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>255.6.1</string>
+	<string>378.26</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>10P70r</string>
-	<key>DTPlatformName</key>
-	<string>macosx</string>
+	<string>9P107g</string>
 	<key>DTPlatformVersion</key>
-	<string>10.14</string>
+	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>18G92</string>
+	<string>17G55</string>
 	<key>DTSDKName</key>
-	<string>macosx10.14internal</string>
+	<string>macosx10.13internal</string>
 	<key>DTXcode</key>
-	<string>1020</string>
+	<string>0930</string>
 	<key>DTXcodeBuild</key>
-	<string>10P70r</string>
-	<key>IOKitPersonalities</key>
-	<dict>
-		<key>FirstPersonality</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>com.apple.iokit.IOSurface</string>
-			<key>IOClass</key>
-			<string>IOSurfaceRoot</string>
-			<key>IOMatchCategory</key>
-			<string>IOSurfaceRoot</string>
-			<key>IOProviderClass</key>
-			<string>IOResources</string>
-			<key>IOResourceMatch</key>
-			<string>IOBSD</string>
-		</dict>
-	</dict>
-	<key>LSMinimumSystemVersion</key>
-	<string>10.14</string>
+	<string>9P107g</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2006-2017 Apple Inc. All rights reserved.</string>
+	<string>Copyright © 2010-2015 Apple Inc. All rights reserved.</string>
 	<key>OSBundleCompatibleVersion</key>
-	<string>87.0</string>
+	<string>2.0.0</string>
 	<key>OSBundleLibraries</key>
 	<dict>
+		<key>com.apple.driver.AppleMobileFileIntegrity</key>
+		<string>1.0.1</string>
+		<key>com.apple.iokit.IOGraphicsFamily</key>
+		<string>1.0.0b1</string>
+		<key>com.apple.iokit.IOPCIFamily</key>
+		<string>1.0.0b1</string>
+		<key>com.apple.iokit.IOSurface</key>
+		<string>87.0</string>
 		<key>com.apple.kpi.bsd</key>
 		<string>9.0.0b1</string>
 		<key>com.apple.kpi.iokit</key>
@@ -75,7 +63,7 @@
 		<key>com.apple.kpi.mach</key>
 		<string>9.0.0b1</string>
 		<key>com.apple.kpi.private</key>
-		<string>9.0.0b1</string>
+		<string>10.0.0d3</string>
 		<key>com.apple.kpi.unsupported</key>
 		<string>9.0.0b1</string>
 	</dict>

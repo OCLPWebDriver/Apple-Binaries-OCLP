@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>BuildAliasOf</key>
-	<string>IOSurface</string>
+	<string>IOAcceleratorFamily</string>
 	<key>BuildVersion</key>
-	<string>64</string>
+	<string>47</string>
 	<key>CFBundleShortVersionString</key>
-	<string>255.6.1</string>
+	<string>378.26</string>
 	<key>CFBundleVersion</key>
-	<string>255.6.1</string>
+	<string>378.26</string>
 	<key>ProjectName</key>
-	<string>IOSurface_kexts</string>
+	<string>IOAcceleratorFamily_kexts</string>
 	<key>SourceVersion</key>
-	<string>255006001000000</string>
+	<string>378026000000000</string>
 </dict>
 </plist>
