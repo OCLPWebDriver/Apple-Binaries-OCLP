@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>GPUSupport</string>
 	<key>CFBundleGetInfoString</key>
-	<string>GPUSupport 17.3.1.0.0</string>
+	<string>GPUSupport 16.7.4.0.0</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apple.gpusupport</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -17,10 +17,10 @@
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>17.3.1</string>
+	<string>16.7.4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>17.3.1</string>
+	<string>16.7.4</string>
 </dict>
 </plist>
